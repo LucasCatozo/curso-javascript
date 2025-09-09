@@ -1,0 +1,24 @@
+              = -> recebe
+        
+        window.alert ->aparece um alerta
+        window.confirm ->fazer alguma pergunta
+        window.prompt -> peruntar algo para resposta
+        
+        Identificadores :
+        🔴 Podem começar com letra, $ ou _
+        🔴 Não podem começar com números
+        🔴 É possível usar letras ou números
+        🔴 É possível usar acentos e símbolos
+        🔴 Não podem conter espaços
+        🔴 Não podem ser palavras reservadas
+
+        Conversão de numeros :
+
+        Number.parseInt(n) - Inteiros
+        Number.parseFloat(n) - Reais
+        Number(n) - Detecta qual é qual, serve para os dois
+
+        Conversão de número para string:
+
+        s.tostring
+        String(s)
