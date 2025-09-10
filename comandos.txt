@@ -22,3 +22,45 @@
 
         s.tostring
         String(s)
+
+      (Precedência dos Operadores Matemáticos (Ordem de execução))
+
+      Parênteses ( )
+      Usados para alterar a ordem natural das operações.
+      Sempre avaliados primeiro.
+
+      Exponenciação **
+      Potenciação.
+      Exemplo: 2 ** 3 = 8.
+
+      Multiplicação *, Divisão / e Módulo %
+      Têm a mesma precedência.
+      São resolvidos da esquerda para a direita.
+
+      dição + e Subtração -
+      Menor precedência entre os operadores aritméticos.
+
+      (Precedência dos Operadores de Atribuição)
+
+      ++ antes ou depois - soma um valor para uma variavel
+
+      -- antes ou depois - subtrai um valor para uma variavel
+
+      (Precedência dos Operadores de Relações)
+
+      > - maior
+      < - Menor
+      >= -  maior ou igual
+      <= - Menor ou igual
+      == - Igual
+      != - Náo igual
+      === - Idêntico
+      !== - Desigual restrito
+      ! - Negação
+      && -- Conjunção
+      || - Disjunção
+
+      (Peecedência dos Operadores Ternários)
+
+      ? - O que acontece quando é aprovado
+      : - O que acontece quando é reprovado
