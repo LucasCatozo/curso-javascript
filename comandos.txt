@@ -64,3 +64,9 @@
 
       ? - O que acontece quando é aprovado
       : - O que acontece quando é reprovado
+
+  Condições
+
+  if - Condições (se)
+  else - (se não)
+  switch - expressão (break obrigatório)
