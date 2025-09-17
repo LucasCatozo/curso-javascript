@@ -70,3 +70,8 @@
   if - Condições (se)
   else - (se não)
   switch - expressão (break obrigatório)
+
+
+  num.push() - acrescenta valores 
+  num.length - atributos
+  num.sort() - coloca os elementos em ordem crescente
